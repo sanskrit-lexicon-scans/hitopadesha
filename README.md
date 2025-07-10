@@ -11,13 +11,13 @@ PDF source: : https://www.digitale-sammlungen.de/en/view/bsb10219665
 PDF title: Hitopadeśa, ed. Schlegel und Lassen, 1829
 
 ## app1
-  app1 provides access to pages based on (tantra, verse)
-  <br/> where tantra is 0-4 (0 = prastāva)
+Provides access to pages based on (tantra, verse)
+- tantra  0-4 (0 = prastāva)
 
-<br/>https://sanskrit-lexicon-scans.github.io/hitopadesha/app1/?3,2
-
+Example: https://sanskrit-lexicon-scans.github.io/hitopadesha/app1/?3,2
 
 ## app2
- app2 provides access to pages based on (page, line-number)
+Provides access to pages based on (internal page, line-number)
+- internal page 3-133
 
-<br/>https://sanskrit-lexicon-scans.github.io/hitopadesha/app2/?3,2
+Example: https://sanskrit-lexicon-scans.github.io/hitopadesha/app2/?5,2
